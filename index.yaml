@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  school-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-03-02T04:28:34.159181486Z"
+    description: A Helm chart for Kubernetes
+    digest: f1a1553a1479d9c326b173af2304d2a2e2875b5679c9040bfbde5c2165311489
+    name: school-app
+    type: application
+    urls:
+    - https://github.com/omkartakalkar19/School-Docker/releases/download/school-app-0.1.0/school-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-03-02T04:28:34.159190874Z"
